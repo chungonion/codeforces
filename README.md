@@ -6,3 +6,6 @@ Daily programming exercises for brainstorming.
 * [ ] Python 2.7
 * [ ] Java
 * [ ] C
+
+## Notes
+Q1088B is incomplete.
