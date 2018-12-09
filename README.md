@@ -1,4 +1,4 @@
-# codeforces
+# Codeforces
 Daily programming exercises for brainstorming. 
 
 ## Languages used for codeforces tasks.
