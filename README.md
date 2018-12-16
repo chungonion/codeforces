@@ -8,4 +8,4 @@ Daily programming exercises for brainstorming.
 * [ ] C
 
 ## Notes
-Q1088B is incomplete.
+
